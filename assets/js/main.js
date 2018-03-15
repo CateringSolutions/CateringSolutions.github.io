@@ -1,5 +1,6 @@
 /*global $*/
 /*global jQuery*/
+
 $(document).ready(function(){
     //make nav items re-align to left inside hamburger on small screens
     $("#hamburger").on("click", function(){
@@ -18,4 +19,6 @@ $(document).ready(function(){
         // prevArrow:'<div class="a-left control-c prev slick-prev"><span class="fas fa-chevron-left"></span><span class="sr-only">Prev</span></div>',
         // nextArrow:'<div class="a-right control-c next slick-next"><span class="fas fa-chevron-right"></span><span class="sr-only">Next</span></div>'
     });
+    var year = new Date().getFullYear();
+    $("#year").text(year);
 });

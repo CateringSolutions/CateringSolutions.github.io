@@ -6,10 +6,11 @@ body {
     background: #1c92d2;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to left, #f2fcfe, #1c92d2);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to left, #f2fcfe, #1c92d2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+    font-family: 'Old Standard TT', serif;
 }
 .headers {
     text-align: center;
+    font-family: 'Lobster Two', cursive;
 }
 
 /*navbar*/
@@ -44,9 +45,26 @@ body {
 .footer {
     background-color: #c0c0c0;
     margin-top: 20px;
-    padding: 50px 0;
+    padding: 20px 10px 10px 10px;
+    text-align: center;
 }
-
+.footer-nav-area {
+    margin-top: 20px;
+}
+.footer-nav-item {
+    color: #000;
+    margin: 0 8px;
+}
+.border-right {
+    border-right: 1px solid #399dbd;
+}
+#footer-logo {
+    border-radius: 50%;
+}
+.footer-media-links {
+    margin: 0 5px;
+    color: #399dbd;
+}
 /*index styles*/
 .banner {
     width: 100%;

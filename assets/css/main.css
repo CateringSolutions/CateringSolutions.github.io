@@ -19,16 +19,12 @@ body {
     left: 3em;
     display: inline;
 }
-#logo-pic {
-    border-radius: 50%;
-    border:  #000000 solid 4px;
-}
 .navbar {
     position: relative;
     z-index: 10;
     margin-top: 35px;
     background-color:  #f3f3f3;
-    border:  #000000 solid 4px;
+    border:  #000000 solid 3px;
 }
 .nav-links-center {
     position: absolute;
@@ -57,9 +53,6 @@ body {
 }
 .border-right {
     border-right: 1px solid #399dbd;
-}
-#footer-logo {
-    border-radius: 50%;
 }
 .footer-media-links {
     margin: 0 5px;

@@ -52,7 +52,7 @@ body {
 }
 /*footer styles*/
 .footer {
-    background-color: #c0c0c0;
+    background-color: #e1e1e1;
     margin-top: 20px;
     padding: 20px 10px 10px 10px;
     text-align: center;
@@ -72,7 +72,7 @@ body {
     color: #399dbd;
 }
 /*small screen styles*/
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 480px) {
     #logo {
         display: none;
     }

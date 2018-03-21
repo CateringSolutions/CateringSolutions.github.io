@@ -20,6 +20,13 @@ button {
 .fa-3x {
     color: #c0c0c0;
     background-color: #000;
-    padding: 2px 5px;
     border-radius: 10px;
+    padding: 0 3px 0  3.2px;
+    border: solid 2px #000;
+}
+/*small screens - phones*/
+@media only screen and (max-width: 480px) {
+    form.form-border-right {
+        border-right: 0px;
+    }
 }

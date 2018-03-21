@@ -30,7 +30,7 @@
 .menu-list-area {
 	text-align: center;
 	margin: 40px 15% 0 15%;
-	padding: 20px 0;
+	padding: 20px 8px;
 	border-radius: 10px;
 	background-image: url("../../images/dust_scratches.png");
 }

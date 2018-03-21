@@ -108,7 +108,7 @@ body {
 @media only screen and (min-width: 1200px) {
     div.banner {
         /*max-width: 1200px;*/
-        height: 700px;
+        height: 600px;
         /*top: 10px;
         left: 0;
         right: 0;
@@ -116,6 +116,7 @@ body {
     }
     img.slides {
         /*border-radius: 25px;*/
+        max-height: 600px;
     }
     a.nav-link {
         font-size: 1em;
@@ -133,6 +134,7 @@ body {
     }
     img.slides {
         /*border-radius: 25px;*/
+        max-height: 1000px;
     }
     a.nav-link {
         font-size: 1em;

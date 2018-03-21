@@ -109,13 +109,13 @@ body {
     div.banner {
         /*max-width: 1200px;*/
         height: 700px;
-        top: 10px;
+        /*top: 10px;
         left: 0;
         right: 0;
-        margin: auto;
+        margin: auto;*/
     }
     img.slides {
-        border-radius: 25px;
+        /*border-radius: 25px;*/
     }
     a.nav-link {
         font-size: 1em;
@@ -126,13 +126,13 @@ body {
     div.banner {
         /*max-width: 1500px;*/
         height: 1000px;
-        top: 10px;
+        /*top: 10px;
         left: 0;
         right: 0;
-        margin: auto;
+        margin: auto;*/
     }
     img.slides {
-        border-radius: 25px;
+        /*border-radius: 25px;*/
     }
     a.nav-link {
         font-size: 1em;

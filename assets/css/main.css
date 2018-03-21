@@ -107,15 +107,9 @@ body {
         /*large desktops*/
 @media only screen and (min-width: 1200px) {
     div.banner {
-        /*max-width: 1200px;*/
         height: 600px;
-        /*top: 10px;
-        left: 0;
-        right: 0;
-        margin: auto;*/
     }
     img.slides {
-        /*border-radius: 25px;*/
         max-height: 600px;
     }
     a.nav-link {
@@ -125,16 +119,10 @@ body {
         /*extra large screens        */
 @media only screen  and (min-width : 1800px) {
     div.banner {
-        /*max-width: 1500px;*/
-        height: 1000px;
-        /*top: 10px;
-        left: 0;
-        right: 0;
-        margin: auto;*/
+        height: 1200px;
     }
     img.slides {
-        /*border-radius: 25px;*/
-        max-height: 1000px;
+        max-height: 1200px;
     }
     a.nav-link {
         font-size: 1em;

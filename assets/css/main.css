@@ -7,6 +7,7 @@ body {
     background: -webkit-linear-gradient(to left, #f2fcfe, #1c92d2);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to left, #f2fcfe, #1c92d2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     font-family: 'Old Standard TT', serif;
+    overflow-x: hidden;
 }
 .headers {
     text-align: center;
@@ -38,9 +39,14 @@ body {
     text-align: right;
 }
 .nav-link {
-    color:   #ffffff;
+    color: #ffffff;
+}
+.nav-highlighter {
+    background-color: #c0c0c0;
+    border-radius: 10px;
 }
 /*footer styles*/
+
 .footer {
     background-color: #c0c0c0;
     margin-top: 20px;

@@ -1,22 +1,23 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Catering Solutions</title>
         <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Catering Solutions</title>
         <link rel="shortcut icon" href="images/favicon.png" type="image/png">
         <link href="https://fonts.googleapis.com/css?family=Lobster+Two|Old+Standard+TT" rel="stylesheet">
         <link href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css" rel="stylesheet" type="text/css">
         <link href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" rel="stylesheet" type="text/css">
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
         <link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
+        <link href="assets/css/menus.css" rel="stylesheet" type="text/css">
         <link href="assets/css/main.css" rel="stylesheet" type="text/css">
-        <link href="assets/css/contact.css" rel="stylesheet" type="text/css">
     </head>
     <body>
         <!--navbar start-->
         <div class="container">
             <nav class="navbar fixed-top navbar-expand-lg navbar-light">
-                <a class="navbar-brand" id="logo" href="#">
+                <a class="navbar-brand" id="logo" href="index.html">
                     <img src="images/catering-logo-125.png">
                 </a>
                 <!--hamburger-->
@@ -39,7 +40,7 @@
                             <a class="nav-link" href="casual.html">Casual Catering</a>
                         </li>
                         <!--menu dropdown-->
-                        <li class="nav-item active dropdown">
+                        <li class="nav-item active dropdown nav-highlighter">
                             <a class="nav-link dropdown-toggle" href="menus.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                 Menus
                             </a>
@@ -64,8 +65,111 @@
             </nav>
         </div>
         <!-- start body -->
-				<h1 class="headers">Breakfast Menus Under Construction</h1>
-				<!-- start footer -->
+		<h1 class="nav-buffer headers">Menus</h1>
+        <!-- menu nav -->
+        <div class="container menu-nav-area">
+            <a class="menu-nav-item" href="menus.html">Menus</a>
+            <a class="menu-nav-item border-right menu-nav-highlighter" href="breakfast.html">Breakfast</a>
+            <a class="menu-nav-item border-right" href="brunch.html">Brunch</a>
+            <a class="menu-nav-item border-right" href="lunch.html">Lunch</a>
+            <a class="menu-nav-item border-right" href="dinner.html">Dinner</a>
+            <a class="menu-nav-item border-right" href="hors.html">Hors D'oeuvres</a>
+            <a class="menu-nav-item" href="specials.html">Specials</a>
+        </div>
+        <!-- start grid -->
+        <div class="row">
+            <!-- start menu -->
+            <div class="col-md-12">
+                <div class="menu-list-area">
+                    <h2 class="headers">Breakfast Menus</h2>
+                    <hr class="hr-style-one">
+                    <p class="menu-key">
+                        *All prices are per-person*<br>
+                        *10 person minimum*
+                    </p>
+                    <div class="menu-list-item">
+                        <div>
+                            <a class="menu-titles" data-toggle="collapse" href="#theWakeUp" role="button" aria-expanded="false" aria-controls="theWakeUp">
+                            <i class="fas fa-sort-down arrows"></i>
+                            <i class="fas fa-sort-up arrows hidden"></i>                            
+                             The Wake Up Breakfast - $5.95
+                            </a>
+                        </div>
+                        <div class="collapse menu-content" id="theWakeUp">
+                            <div>
+                                Coffee Station<br>
+                                Bagel with Assorted Cream Cheeses or<br>
+                                Breakfast Sandwich
+                            </div>
+                        </div>
+                    </div>
+                    <div class="menu-list-item">
+                        <div>
+                            <a class="menu-titles" data-toggle="collapse" href="#theContinental" role="button" aria-expanded="false" aria-controls="theContinental">
+                            <i class="fas fa-sort-down arrows"></i>
+                            <i class="fas fa-sort-up arrows hidden"></i>    
+                             The Continental Breakfast - $8.95
+                            </a>
+                        </div>
+                        <div class="collapse menu-content" id="theContinental">
+                            <div>
+                                Coffee Station<br>
+                                Assorted Fresh Fruit Juices<br>
+                                Assorted Freshly Baked Muffins, Danish Pastries, and Bagels<br>
+                                Seasonal Fresh Fruit Display
+                            </div>
+                        </div>
+                    </div>
+                    <div class="menu-list-item">
+                        <div>
+                            <a class="menu-titles" data-toggle="collapse" href="#theClassic" role="button" aria-expanded="false" aria-controls="theClassic">
+                            <i class="fas fa-sort-down arrows"></i>
+                            <i class="fas fa-sort-up arrows hidden"></i>    
+                             The Classic Breakfast Buffet - $10.95
+                            </a>
+                        </div>
+                        <div class="collapse menu-content" id="theClassic">
+                            <div>
+                                Coffee Station<br>
+                                Assorted Fresh Fruit Juices<br>
+                                Assorted Freshly Baked Muffins, Danish Pastries, and Bagels<br>
+                                Seasonal Fresh Fruit Display<br>
+                                Breakfast Potatoes with Sautéed Onions and Peppers<br>
+                                <em>Choice of One:</em><br>
+                                Breakfast Quiche, French Toast, or Pancakes<br>
+                                (Served with Creamy Butter and Syrup)<br>
+                                <em>Choice of One:</em><br>
+                                Sweet Ham Slices, Crisp Bacon Strips, or Golden Sausage Links<br>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- start add-ons -->
+                    <h4 class="add-on">Breakfast Add-Ons</h4>
+                    <div>
+                        <h6 class="add-on-title">Farm Fresh Scrambled Eggs - $2</h6>
+                        <p class="add-on-description">*Ask us about our omelet stations!</p>
+                    </div>
+                    <div class="add-on-item">
+                        <h6 class="add-on-title">Yogurt Parfait Station - $3</h6>
+                        <p class="add-on-description">Creamy vanilla yogurt with assorted toppings</p>
+                    </div>
+                    <div class="add-on-item">
+                        <h6 class="add-on-title">Adult Beverage Station - $4</h6>
+                        <p class="add-on-description">Options include Mimosas or Bloody Marys</p>
+                    </div>
+                    <div class="add-on-item">
+                        <h6 class="add-on-title">Seasonal Fresh Fruit Display - $2</h6>
+                    </div>
+                    <div>
+                        <h6 class="add-on-title">Assorted Fresh Fruit Juices - $2</h6>
+                    </div>
+                </div>
+            </div>
+            <!-- start images -->
+            <!-- <div class="col-md-4 body-img-grid"></div> -->
+        </div>
+        
+		<!-- start footer -->
         <div class="footer">
             <div class="row">
                 <div class="col-md-6">

@@ -61,6 +61,16 @@ em {
 	margin: 0 15%;
 	padding: 8px;
 }
+.dish-types {
+	font-size: .75em;
+	text-decoration: underline;
+}
+/*.right {
+	text-align: right;
+}
+.left {
+	text-align: left;
+}*/
 .add-on {
 	color: #000;
 	text-decoration: underline;
@@ -76,6 +86,9 @@ em {
 .add-on-description {
 	margin-top: -8px;
 	font-size: .8em;
+}
+.add-on-link {
+	color: #399dbd;
 }
 .hidden {
 	display: none;

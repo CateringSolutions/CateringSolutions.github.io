@@ -7,6 +7,11 @@ $(document).ready(function(){
         $("#nav-links").toggleClass("nav-links-center");
         $(".navbar-nav").toggleClass("nav-links-right");
     });
+    $(".info").hover( function(){
+        $(".carousel").slick("slickPause");
+        }, function(){
+        $(".carousel").slick("slickPlay")
+    });
     //slick carousel
     $(".carousel").slick({
         dots: true,
@@ -15,7 +20,9 @@ $(document).ready(function(){
         autoplay: true,
         autoplaySpeed: 5000,
         fade: true,
-        speed: 1000
+        speed: 1000,
+        pauseOnHover: false,
+        pauseOnDotsHover: true
     });
     var year = new Date().getFullYear();
     $("#year").text(year);

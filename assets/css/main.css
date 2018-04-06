@@ -92,9 +92,17 @@ body {
         padding: 0;
     }
 }
+@media only screen and (max-width: 575px) {
+    .xs-img {
+        display: none;
+    }
+}
         /*tablets*/
 @media only screen and (max-width: 768px) {
     .slide-show-text {
+        display: none;
+    }
+    .sm-img {
         display: none;
     }
 }
@@ -173,7 +181,66 @@ body {
 }
 .slide-show-text {
     font-size: 1.5em;
+    padding: 8px;
 }
 .slogan {
     text-align: center;
+    padding-bottom: 50px;
+}
+.hr-style-one {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+.welcome {
+    text-align: center;
+    padding-top: 40px;
+}
+.welcome-imgs {
+    padding-top: 25px;
+}
+.welcome-message {
+    font-size: 1.5em;
+    padding: 25px 5% 50px 5%;
+}
+.message-links {
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 1em #399dbd, 0 0 0.2em #399dbd;
+}
+.venues-area {
+    padding: 40px;
+    background-image: url("../../images/dust_scratches.png");
+}
+.venue-grid {
+    padding: 20px;
+}
+.venue-info {
+    text-align: center;
+    padding: 2%;
+} 
+.venue-name {
+    color: #399dbd;
+}
+.about-us-area {
+    padding: 50px;
+}
+.about-us-grid {
+    padding-top: 25px;
+    text-align: center;
+}
+.about-us-titles {
+    padding-top: 10px;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 1em #399dbd, 0 0 0.2em #399dbd;
+}
+.fa-utensils {
+    color: #b6b6b6;
+}
+.fa-plus {
+    color: #eb1414;
+    background-color: white;
+    padding: 3px 10px;
+}
+.fa-star {
+    color: #ffe976;
 }

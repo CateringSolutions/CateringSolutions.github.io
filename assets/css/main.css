@@ -211,6 +211,20 @@ body {
     padding: 40px;
     background-image: url("../../images/dust_scratches.png");
 }
+.venue-header {
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+    color: #399dbd;
+    font-size: 2.7em;
+}
+.venue-message {
+    font-size: .8em;
+    text-align: center;
+    margin: 0 50px;
+}
+.venue-contact-link {
+    color: #399dbd;
+}
 .venue-grid {
     padding: 20px;
 }

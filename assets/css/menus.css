@@ -25,6 +25,20 @@
 }
 .menu-img-tag {
 	color: #000;
+	font-size: 1.5em;
+	font-family: 'Lobster Two', cursive;
+}
+.specials {
+	position: relative;
+}
+.specials-text {
+	font-size: 3em;
+	color: #399dbd;
+	text-shadow: 1px 1px 2px white, 0 0 .4em white, 0 0 0.2em white;
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 /*menu collapse styles*/
 .menu-list-area {

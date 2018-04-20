@@ -24,9 +24,10 @@ $(document).ready(function(){
         pauseOnHover: false,
         pauseOnDotsHover: true
     });
+    //copyright date generater
     var year = new Date().getFullYear();
     $("#year").text(year);
-    // toggle menu arrow icons
+    //toggle menu arrow icons
     $(".menu-titles").on("click", function(){
         $(this).find(".arrows").toggleClass("hidden");
     });

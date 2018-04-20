@@ -1,0 +1,72 @@
+/*body {
+	background: 
+		linear-gradient(
+      rgba(57, 157, 189, 0.1), 
+      rgba(57, 157, 189, 0.1)
+    ),
+		url("../../images/rawpixel-com-555902-unsplash.jpg") no-repeat;
+	background-size: cover;
+	background-position: center;
+}*/
+.main-header {
+  text-align: center;
+  font-family: 'Lobster Two', cursive;
+  color: #399dbd;
+  font-size: 3em;
+  text-shadow: 1px 1px 2px black, 0 0 1em #399dbd, 0 0 0.2em #399dbd;
+  padding: 15px 0 5px 0;
+}
+.hr-style-one {
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, rgba(192, 192, 192, 0.1), rgba(192, 192, 192, 1), rgba(192, 192, 192, 0.1));
+}
+.main-info-area {
+	background: 
+		linear-gradient(
+      rgba(225, 225, 225, 0.85), 
+      rgba(225, 225, 225, 0.85)
+    );
+  border-radius: 20px;
+  padding: 10px 15px 10px 30px;
+  margin: 60px 10%;
+}
+/*info area*/
+.event-info-area {
+	border-right: solid 2px #c0c0c0;
+	margin-top: 10px;
+}
+.event-titles {
+	color: #399dbd;
+}
+.event-text {
+	padding-right: 20px;
+}
+.event-links {
+	text-shadow: 1px 1px 2px white, 0 0 1em white, 0 0 0.2em #399dbd;
+}
+/*picture area*/
+.hidden-pic {
+	display: none;
+}
+.event-pics {
+	padding-top: 8px;
+	margin: 10px 0;
+}
+/*service area*/
+.service-area {
+	margin-top: 25px;
+}
+.service-titles {
+	text-align: center;
+	color: #399dbd;
+}
+.service-images {
+	display: block;
+	margin: 0 auto;
+}
+.service-text {
+	text-align: center;
+	padding-top: 8px;
+}
+

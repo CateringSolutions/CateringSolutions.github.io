@@ -93,6 +93,9 @@ body {
     .xs-img {
         display: none;
     }
+    .no-margin {
+        margin-top: -14px;
+    }
 }
         /*tablets*/
 @media only screen and (max-width: 768px) {
@@ -102,11 +105,28 @@ body {
     .sm-img {
         display: none;
     }
+    .img-hider-sm {
+        display: none;
+    }
+    div.hidden-pic {
+        display: block;
+        margin: 0 auto;
+    }
+    div.main-info-area {
+        text-align: center;
+    }
+    .center-bullets {
+        list-style-position: inside;
+        margin-left: -45px;
+    }
 }
         /*medium screens*/
 @media only screen and (min-width: 992px){
     a.nav-link {
         font-size: .81em;
+    }
+    .img-hider {
+        display: none;
     }
 }
         /*large desktops*/
@@ -119,6 +139,9 @@ body {
     }
     a.nav-link {
         font-size: 1em;
+    }
+        .img-hider-lg {
+        display: none;
     }
 }
         /*extra large screens        */

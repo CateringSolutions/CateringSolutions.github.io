@@ -1,11 +1,20 @@
 /*menu nav styles*/
+.shadow {
+	text-shadow: 2px 2px 4px black, 0 0 .8em #399dbd, 0 0 0.4em #399dbd;
+	color: white;
+}
 .menu-nav-area {
 	text-align: center;
+	margin-top: 25px;
 }
 .menu-nav-item {
 	text-align: center;
 	padding: 6px 8px 4px 8px;
-	color: #000;
+	color: white;
+	font-weight: bold;
+	font-size: 1.1em;
+	/*color: #399dbd;*/
+	text-shadow: 2px 2px 4px black, 0 0 .8em #399dbd, 0 0 0.4em #399dbd;
 }
 .menu-border-right {
 	border-right: 1px solid #399dbd;
@@ -13,6 +22,16 @@
 .menu-nav-highlighter {
 	background-color: #e1e1e1;
 	border-radius: 10px;
+}
+.banner {
+	/*background-image: url("../../images/menus/breakfast-spread.jpg");*/
+	/*background-size: contain;*/
+	background-repeat: no-repeat;
+	background-position: center;
+	max-height: 350px;
+	width: 100%;
+	padding: 60px 0 150px 0;
+	margin-top: 40px;
 }
 /*main menu page styles*/
 .menu-img-grid {
@@ -43,7 +62,7 @@
 /*menu collapse styles*/
 .menu-list-area {
 	text-align: center;
-	margin: 40px 15% 0 15%;
+	margin: -100px 15% 0 15%;
 	padding: 20px 8px 50px 8px;
 	border-radius: 10px;
 	background-image: url("../../images/dust_scratches.png");

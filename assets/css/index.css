@@ -19,7 +19,7 @@
     z-index: 1;
     font-size: 50px;
 }
-         /*info area*/
+/*info area*/
 .captions {
     position: relative;
 }
@@ -54,6 +54,7 @@
     height: 1px;
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
 }
+/*welcome styles*/
 .welcome {
     text-align: center;
     padding-top: 40px;
@@ -69,6 +70,26 @@
     color: white;
     text-shadow: 1px 1px 2px black, 0 0 1em #399dbd, 0 0 0.2em #399dbd;
 }
+/*the process styles*/
+.process-area {
+    background-image: url("../../images/dust_scratches.png");
+    padding: 25px 10px;
+}
+.process-items {
+    text-align: center;
+}
+.process-item-titles {
+    color: #399dbd;
+    font-family: 'Lobster Two', cursive;
+    padding-top: 8px;
+}
+.process-icons {
+    color:  white;
+    background-color: #808080;
+    padding: 12px;
+    border-radius: 30px;
+}
+/*about us styles*/
 .about-us-area {
     padding: 50px;
 }

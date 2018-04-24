@@ -96,6 +96,9 @@ body {
     .no-margin {
         margin-top: -14px;
     }
+    #phone-number {
+        color: black;
+    }
 }
         /*tablets*/
 @media only screen and (max-width: 768px) {

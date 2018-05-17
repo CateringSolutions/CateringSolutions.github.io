@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<!--
+ created with Free Online Sitemap Generator www.xml-sitemaps.com 
+-->
+	<url>
+		<loc>https://caterfla.com/</loc>
+		<lastmod>2018-05-15T23:40:58+00:00</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<!-- index -->
+	<url>
+		<loc>https://caterfla.com/index.html</loc>
+		<image:image>
+         <image:loc>https://caterfla.com/images/catering-logo-125.png</image:loc>
+         <image:title>catering solutions logo</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/catering-logo-75.png</image:loc>
+         <image:title>catering solutions logo</image:title>
+    </image:image>
+		<image:image>
+         <image:loc>https://caterfla.com/images/home/meeting-buffet.jpeg</image:loc>
+         <image:title>corporate catering buffet luncheon</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/home/special-occasions.jpg</image:loc>
+         <image:title>special event dining room display</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/home/casual-catering.jpg</image:loc>
+         <image:title>casual party food platter</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/home/steak.jpeg</image:loc>
+         <image:title>ribeye steak dinner with broccoli and potatoes</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/home/salmon.jpeg</image:loc>
+         <image:title>salmon on potato puree with mixed vegetable chutney</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/home/taco.jpeg</image:loc>
+         <image:title>flank steak taco with tomatillo and avocado salsa</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/home/sandwich.jpeg</image:loc>
+         <image:title>grilled chicken sandwich with mixed greens and slaw</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/home/burger.jpeg</image:loc>
+         <image:title>cheeseburger and fries with all the fixings</image:title>
+    </image:image>
+		<lastmod>2018-05-15T23:40:58+00:00</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<!-- corporate catering-->
+	<url>
+		<loc>https://caterfla.com/corporate.html</loc>
+		<image:image>
+         <image:loc>https://caterfla.com/images/events/salad.jpeg</image:loc>
+         <image:title>plated greek salad with feta, tomato, and olives</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/events/beef-dinner.jpeg</image:loc>
+         <image:title>beef tenderloin with mixed greens and mushrooms</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/events/cheers2.jpeg</image:loc>
+         <image:title>group of people having a wine toast</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/events/salad-bar.jpeg</image:loc>
+         <image:title>salad bar buffet spread</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/events/plated-dinner.jpeg</image:loc>
+         <image:title>event with set tables and plated meal</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/events/waiter.png</image:loc>
+         <image:title>waiter with serving tray</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/events/delivery-van.png</image:loc>
+         <image:title>catering delivery van</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/events/buffet-table.png</image:loc>
+         <image:title>buffet table set with chaffing dish</image:title>
+    </image:image>
+		<lastmod>2018-05-15T23:40:58+00:00</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<!-- special occasions -->
+	<url>
+		<loc>https://caterfla.com/occasions.html</loc>
+		<image:image>
+         <image:loc>https://caterfla.com/images/events/wedding-cake.jpeg</image:loc>
+         <image:title>naked three tier wedding cake with berries and flowers</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/events/lobster-platter.jpeg</image:loc>
+         <image:title>seafood boil platter featuring whole lobster</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/events/plated-app.jpeg</image:loc>
+         <image:title>event table place setting with scallop appitizer</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/events/steak-carrots.jpeg</image:loc>
+         <image:title>platted steak with baby carrots</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/events/cheers.jpeg</image:loc>
+         <image:title>group of beer-filled glasses having a toast</image:title>
+    </image:image>
+		<lastmod>2018-05-15T23:40:58+00:00</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<!-- venues -->
+	<url>
+		<loc>https://caterfla.com/venues.html</loc>
+		<image:image>
+         <image:loc>https://caterfla.com/images/venues/lake-worth-casino.jpeg</image:loc>
+         <image:title>The Lake Worth Casino building</image:title>
+         <image:geo_location>Lake Worth, Florida, USA</image:geo_location>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/venues/womens-club.jpg</image:loc>
+         <image:title>The Boynton Beach Womans Club building</image:title>
+         <image:geo_location>Boynton Beach, Florida, USA</image:geo_location>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/venues/intracoastal-park.jpeg</image:loc>
+         <image:title>The Intracoastal Park Clubhouse building</image:title>
+         <image:geo_location>Boynton Beach, Florida, USA</image:geo_location>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/venues/old-school-square.jpeg</image:loc>
+         <image:title>The Old School Square building</image:title>
+         <image:geo_location>Delray Beach, Florida, USA</image:geo_location>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/venues/morikami-museum.jpeg</image:loc>
+         <image:title>The Morikami Museum and Japenese Gardens</image:title>
+         <image:geo_location>Delray Beach, Florida, USA</image:geo_location>
+    </image:image>
+		<lastmod>2018-05-15T23:40:58+00:00</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<!-- all menus -->
+	<url>
+		<loc>https://caterfla.com/menus.html</loc>
+		<image:image>
+         <image:loc>https://caterfla.com/images/menus/breakfast-eggs-200.jpeg</image:loc>
+         <image:title>breakfast plate of eggs, pancakes, bacon, toast, juice, and coffee</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/menus/brunch-salad-200.jpeg</image:loc>
+         <image:title>brunch plate of eggs, toast, potatoes, mixed vegetables, and salad</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/menus/lunch-sandwich-200.jpeg</image:loc>
+         <image:title>lunch plate of sliced turkey sandwich with lettuce, tomato, and pita chips</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/menus/dinner-pork-chop-200.jpeg</image:loc>
+         <image:title>dinner plate of grilled pork chop with broccoli and baked apple chutney</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/menus/hors-d'oeuvres-200.jpeg</image:loc>
+         <image:title>plate of assorted hors d'oeuvres</image:title>
+    </image:image>
+    <image:image>
+         <image:loc>https://caterfla.com/images/menus/specials-board-200.jpeg</image:loc>
+         <image:title>chalk board food drawings</image:title>
+    </image:image>
+		<lastmod>2018-05-15T23:40:58+00:00</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<!-- breakfast menus -->
+	<url>
+		<loc>https://caterfla.com/breakfast.html</loc>
+		<image:image>
+         <image:loc>https://caterfla.com/images/menus/breakfast-spread.jpg</image:loc>
+         <image:title>catered continental breakfast buffet with eggs, danish, fruit, cereal, and coffee</image:title>
+    </image:image>
+		<lastmod>2018-05-15T23:40:58+00:00</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<!-- brunch menus -->
+	<url>
+		<loc>https://caterfla.com/brunch.html</loc>
+		<image:image>
+         <image:loc>https://caterfla.com/images/menus/brunch-spread.jpg</image:loc>
+         <image:title>catered brunch buffet with omelets, salads, danish, and desserts</image:title>
+    </image:image>
+		<lastmod>2018-05-15T23:40:58+00:00</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<!-- lunch menus -->
+	<url>
+		<loc>https://caterfla.com/lunch.html</loc>
+		<image:image>
+         <image:loc>https://caterfla.com/images/menus/lunch-spread.jpeg</image:loc>
+         <image:title>catered lunch sandwich platters with assorted sandwiches and wraps</image:title>
+    </image:image>
+		<lastmod>2018-05-15T23:40:58+00:00</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<!-- dinner menus -->
+	<url>
+		<loc>https://caterfla.com/dinner.html</loc>
+		<image:image>
+         <image:loc>https://caterfla.com/images/menus/dinner-spread.jpeg</image:loc>
+         <image:title>catered dinner buffet with salads, meats, entrees, and vegetables</image:title>
+    </image:image>
+		<lastmod>2018-05-15T23:40:58+00:00</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<!-- hors d'oeurves menus -->
+	<url>
+		<loc>https://caterfla.com/hors.html</loc>
+		<image:image>
+         <image:loc>https://caterfla.com/images/menus/hors-spread.jpeg</image:loc>
+         <image:title>catered hors d'oeurves spread with oysters, gaspatcho, caprase skewers, mini pastries, and mini sandwiches</image:title>
+    </image:image>
+		<lastmod>2018-05-15T23:40:58+00:00</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<!-- specials menu -->
+	<url>
+		<loc>https://caterfla.com/specials.html</loc>
+		<image:image>
+         <image:loc>https://caterfla.com/images/menus/specials-spread.jpeg</image:loc>
+         <image:title>variety of seasonal dishes including salmon, peach cobbler, and pasta primavera</image:title>
+    </image:image>
+		<lastmod>2018-05-15T23:40:58+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.80</priority>
+	</url>
+	<!-- contact us -->
+	<url>
+		<loc>https://caterfla.com/contact.html</loc>
+		<lastmod>2018-05-15T23:40:58+00:00</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.80</priority>
+	</url>
+</urlset>

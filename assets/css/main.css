@@ -30,7 +30,7 @@ body {
     z-index: 10;
     margin-top: 35px;
     background-color:  #e1e1e1;
-    border:  #000000 solid 3px;
+    border:  #000 solid 3px;
     border-radius: 25px
 }
 .nav-links-center {
@@ -47,6 +47,19 @@ body {
 .nav-highlighter {
     background-color: #c0c0c0;
     border-radius: 10px;
+}
+#ez-cater-button {
+    border-radius: 10px;
+    border: 0px;
+    background-color: #399dbd;
+    margin-right: 20px;
+}
+#ez-cater-button:hover {
+    border: #000 solid 2px;
+    font-size: 1.1em;
+}
+#ez-cater-link {
+    color: #000;
 }
 /*footer styles*/
 .footer {
@@ -128,6 +141,9 @@ body {
     a.nav-link {
         font-size: .81em;
     }
+    #ez-cater-link {
+        font-size: .81em;
+    }
     .img-hider {
         display: none;
     }
@@ -141,6 +157,9 @@ body {
         max-height: 600px;
     }
     a.nav-link {
+        font-size: 1em;
+    }
+    #ez-cater-link {
         font-size: 1em;
     }
         .img-hider-lg {

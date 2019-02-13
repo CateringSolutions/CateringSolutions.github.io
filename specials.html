@@ -112,12 +112,42 @@
                     <!-- <a class="menu-titles" data-toggle="collapse" href="#theCondo" role="button" aria-expanded="false" aria-controls="theCondo">
                     <i class="fas fa-sort-down arrows"></i>
                     <i class="fas fa-sort-up arrows hidden"></i>                            
-                    The Condo Special - $11.95
+                    St. Patty's Day Special - $15.95
                     </a> -->
-                    <h3 class="menu-titles">The Condo Special - $11.95</h3>
-                    <p>(Minimum 40 People)</p>
+                    <h3 class="headers">*Featured Special*</h3>
+                    <h3 class="menu-titles">St. Patty's Day Special - $15.95</h3>
                 </div>
-                <div class="menu-content" id="theCondo"> <!-- removed class 'collapse' -->
+                <div class="menu-content"> <!-- removed class 'collapse' to make this menu open at page load -->
+                    <div>
+                        <strong>Entrée</strong><br>
+                        <div class="row justify-content-center">
+                            Corned Beef and Cabbage                                      
+                        </div>
+                        <br><strong>Sides</strong><br>
+                        <div class="row justify-content-center">
+                            Boiled Potatoes<br>
+                            Honey Glazed Carrots<br>
+                            Irish Soda Bread with Creamy Butter
+                        </div>
+                        <br><strong>Dessert</strong><br>
+                        <div class="row justify-content-center">
+                            Green Velvet Cake
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <div class="menu-list-item">
+                <div>
+                    <a class="menu-titles" data-toggle="collapse" href="#theCondo" role="button" aria-expanded="false" aria-controls="theCondo">
+                    <i class="fas fa-sort-down arrows"></i>
+                    <i class="fas fa-sort-up arrows hidden"></i>                            
+                    The Condo Special - $11.95
+                    </a> <!-- this a tag should get commented out when there is only one special-->
+                    <!-- <h3 class="menu-titles">The Condo Special - $11.95</h3> This is here for when condo is the only special-->
+                    <p>(Minimum 40 People)</p>  
+                </div>
+                <div class="collapse menu-content" id="theCondo"> <!-- removed class 'collapse' when only one special. add it back in when multiple specials-->
                     <div>
                         <strong>Entrée</strong><br>
                         <em>Choice of One:</em><br>
